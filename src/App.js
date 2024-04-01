@@ -42,15 +42,16 @@ function App() {
               <CardMedia
                 component="img"
                 height="200"
-                image="https://cdn.dribbble.com/users/3737070/screenshots/12726350/ecommerce_-_shoes_concept_4x.jpg"
+                image="https://s.tmimgcdn.com/scr/1600x1000/110300/elextra-electronic-e-commerce-website-template-ui-elements_110379-original.jpg"
                 alt="Product Image"
               />
               <CardContent>
                 <Typography gutterBottom variant="h5" component="div">
-                  The Shoes Mart
+                  The World Of Electronics
                 </Typography>
                 <Typography variant="body2" color="text.secondary">
-                Extract your daily needd!!!!!
+                  Choose your stylesss!!!!!
+                
                 </Typography>
               </CardContent>
               <CardActions>
